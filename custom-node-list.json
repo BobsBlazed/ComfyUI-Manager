@@ -16017,6 +16017,16 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
+        {
+            "author": "BobsBlazed",
+            "title": "Bobs_FLUX_SDXL_Latent_Optimizer",
+            "id": "Bobs_FLUX_SDXL_Latent_Optimizer",
+            "reference": "https://github.com/BobsBlazed/Bobs_FLUX_SDXL_Latent_Optimizer",
+            "files": [
+                "https://github.com/BobsBlazed/Bobs_FLUX_SDXL_Latent_Optimizer.git",
+            ],
+            "install_type": "unzip",
+            "description": "designed to optimize latent generation for use with both FLUX and SDXL modes. It provides flexible control over aspect ratios, megapixel sizes, and upscale factors, allowing users to dynamically create latents that fit specific tiling and resolution needs."
         }
     ]
 }
